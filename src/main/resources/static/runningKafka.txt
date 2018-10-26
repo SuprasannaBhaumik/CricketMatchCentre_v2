@@ -1,0 +1,9 @@
+To run kafka
+
+Step 1 > Run zookeeper
+Open cmd and type zkserver 
+
+Step 2 > goto the the installation of kafka and then 
+
+C:\Softwares_2018\kafka_2.11-2.0.0\kafka_2.11-2.0.0>
+.\bin\windows\kafka-server-start.bat .\config\server.properties
